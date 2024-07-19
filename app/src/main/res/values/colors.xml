@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    //primary colors
+    <color name="primary_gold">#FBBC05</color>
+    <color name="primary_pink">#D7008A</color>
+    <color name="primary_dark">#1B1B1D</color>
+    <color name="primary_white">#FCFCFC</color>
+
+
+    //secondary colors
+    <color name="secondary_dark_900">#111315</color>
+    <color name="secondary_dark_800">#17191C</color>
+    <color name="secondary_dark_700">#1D2024</color>
+    <color name="secondary_dark_600">#25292E</color>
+    <color name="secondary_dark_500">#292D32E5</color>
+    <color name="secondary_default">#292D32</color>
+
+    <color name="secondary_light_400">#54575B</color>
+    <color name="secondary_light_300">#707276</color>
+    <color name="secondary_light_200">#9D9EA1</color>
+    <color name="secondary_light_100">#BDBEBF</color>
+
+    <color name="secondary_white">#D9D9D9</color>
+
+
+
+    <color name="colorPrimary">#92A3FD</color>
+    <color name="colorSecondary">#9DCEFF</color>
+    <color name="colorText">#1D1617</color>
+    <color name="colorAccent">#C58BF2</color>
+    <color name="colorWhite">#FFFFFFFF</color>
+    <color name="colorGray">#7B6F72</color>
+    <color name="colorBg">#F7F8F8</color>
+
+    <color name="color_buy_premium">#FF544D</color>
+    <color name="color_view_more">#494F4D</color>
+
+
+
+</resources>

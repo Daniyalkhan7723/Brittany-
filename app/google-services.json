@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "296446887954",
+    "project_id": "brittany-s-fitness-app",
+    "storage_bucket": "brittany-s-fitness-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296446887954:android:32e12cb2cd1a60a4e170cb",
+        "android_client_info": {
+          "package_name": "com.cp.brittany.dixon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296446887954-7ui7416kuc3emt649eh1msa49sril17m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cp.brittany.dixon",
+            "certificate_hash": "c75ccf003a96acde8c1e6ba9aab2fa145b57d38a"
+          }
+        },
+        {
+          "client_id": "296446887954-a2v7dnicpcql8jqeqeqcrdb1cko74e4l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cp.brittany.dixon",
+            "certificate_hash": "8b5eeb8c85cdb14fcd88a1dadbcda41270bd42a8"
+          }
+        },
+        {
+          "client_id": "296446887954-hcnvnc5tarcptutjlvospnbkvbicbqnp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cp.brittany.dixon",
+            "certificate_hash": "364ad53e5f04c70fd04e60e1e64134ed12c47e39"
+          }
+        },
+        {
+          "client_id": "296446887954-l0oh3b5e2g83q7emdge6p5ven9g9e4jt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cp.brittany.dixon",
+            "certificate_hash": "9579cc97302ad348e5dc54662c4bb30c1513d539"
+          }
+        },
+        {
+          "client_id": "296446887954-vp9h7n7p09ljuggheg471ufqqj0237ut.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cp.brittany.dixon",
+            "certificate_hash": "ae1f5f31eb7d574274a892541278fcc6594429b6"
+          }
+        },
+        {
+          "client_id": "296446887954-58p0475c2jef9tidj6514uda50tap98t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNhEKn59yd99JAFvzGduvz7atfm0KN5mg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296446887954-58p0475c2jef9tidj6514uda50tap98t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "296446887954-0d38lbenp6cj2u5mhj88vd5po07lfrdl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.teamglampions.glampions"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

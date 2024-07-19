@@ -1,0 +1,35 @@
+package com.cp.brittany.dixon.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val Gold = Color(0xFFFBBC05)
+val Pink = Color(0xFFD7008A)
+val Dark = Color(0xFF1B1B1D)
+val Dark900 = Color(0xFF111315)
+val Dark800 = Color(0xFF17191C)
+val Dark700 = Color(0xFF1D2024)
+val Dark600 = Color(0xFF25292E)
+val Default = Color(0xFF292D32)
+val Light400 = Color(0xFF54575B)
+val Light300 = Color(0xFF707276)
+val Light200 = Color(0xFF9D9EA1)
+val Light100 = Color(0xFFBDBEBF)
+val White0 = Color(0xFFD9D9D9)
+val White = Color(0xFFFCFCFC)
+val PureWhite = Color(0xFFFFFFFF)
+val GrayColor = Color(0xFF7B6F72)
+val TextColor = Color(0xFF1D1617)
+val Primary = Color(0xFF92A3FD)
+val Secondary = Color(0xFF9DCEFF)
+val WhiteColor = Color(0xFFFFFFFF)
+val ErrorColor = Color(0xFFEB5842)
+val PremiumBannerColor = Color(0xFFFF544D)
+val ColorViewMore = Color(0xFF494F4D)
+val PureBlack = Color(0xFF000000)
+val SuccessColor = Color(0xFF10B981)
+val dividerColor= Color(0xFF373738)
+val greenColor= Color(0xFF1ED700)
+val mineShaft= Color(0xFF272727)
+val darkGrey= Color(0xFF272727)
+
+
